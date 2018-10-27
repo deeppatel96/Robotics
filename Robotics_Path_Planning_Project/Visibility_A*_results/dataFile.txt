@@ -1,0 +1,336 @@
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 5
+Visibility Graph A* Total Time: 0.871413946152
+Visibility Graph A* Total Path Distance: 7.06579209636
+
+
+
+Map 2, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 15
+Visibility Graph A* Total Time: 1.62245297432
+Visibility Graph A* Total Path Distance: 7.15304124043
+
+
+
+Map 3, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 11
+Visibility Graph A* Total Time: 17.9300477505
+Visibility Graph A* Total Path Distance: 26.9339512653
+
+
+
+Map 4, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 17
+Visibility Graph A* Total Time: 19.456401825
+Visibility Graph A* Total Path Distance: 19.3298577874
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 24
+Visibility Graph A* Total Time: 32.5687379837
+Visibility Graph A* Total Path Distance: 20.7060068947
+
+
+
+Map 1, Start/Goal 0
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.953346967697
+Visibility Graph A* Total Path Distance: 4.0
+
+
+
+Map 1, Start/Goal 1
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.986539840698
+Visibility Graph A* Total Path Distance: 5.00624609863
+
+
+
+Map 1, Start/Goal 2
+Visibility Graph A* Total Expanded Nodes: 5
+Visibility Graph A* Total Time: 0.739506959915
+Visibility Graph A* Total Path Distance: 8.01554206489
+
+
+
+Map 1, Start/Goal 3
+Visibility Graph A* Total Expanded Nodes: 5
+Visibility Graph A* Total Time: 0.925454139709
+Visibility Graph A* Total Path Distance: 9.00652427703
+
+
+
+Map 1, Start/Goal 4
+Visibility Graph A* Total Expanded Nodes: 6
+Visibility Graph A* Total Time: 0.773532867432
+Visibility Graph A* Total Path Distance: 7.54227382216
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 5
+Visibility Graph A* Total Time: 1.39625501633
+Visibility Graph A* Total Path Distance: 7.06579209636
+
+
+
+Map 1, Start/Goal 6
+Visibility Graph A* Total Expanded Nodes: 6
+Visibility Graph A* Total Time: 0.64101099968
+Visibility Graph A* Total Path Distance: 8.31868055468
+
+
+
+Map 1, Start/Goal 7
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.720584869385
+Visibility Graph A* Total Path Distance: 9.53637509728
+
+
+
+Map 1, Start/Goal 8
+Visibility Graph A* Total Expanded Nodes: 6
+Visibility Graph A* Total Time: 1.09379410744
+Visibility Graph A* Total Path Distance: 8.26603533016
+
+
+
+Map 1, Start/Goal 9
+Visibility Graph A* Total Expanded Nodes: 10
+Visibility Graph A* Total Time: 0.643069028854
+Visibility Graph A* Total Path Distance: 5.86064524873
+
+
+
+Map 3, Start/Goal 0
+Visibility Graph A* Total Expanded Nodes: 11
+Visibility Graph A* Total Time: 17.1324648857
+Visibility Graph A* Total Path Distance: 13.8480751985
+
+
+
+Map 3, Start/Goal 1
+Visibility Graph A* Total Expanded Nodes: 19
+Visibility Graph A* Total Time: 16.5457658768
+Visibility Graph A* Total Path Distance: 16.6073275026
+
+
+
+Map 3, Start/Goal 2
+Visibility Graph A* Total Expanded Nodes: 14
+Visibility Graph A* Total Time: 18.6655550003
+Visibility Graph A* Total Path Distance: 14.0230261664
+
+
+
+Map 3, Start/Goal 3
+Visibility Graph A* Total Expanded Nodes: 17
+Visibility Graph A* Total Time: 16.2575638294
+Visibility Graph A* Total Path Distance: 23.1931757926
+
+
+
+Map 3, Start/Goal 4
+Visibility Graph A* Total Expanded Nodes: 19
+Visibility Graph A* Total Time: 17.5991060734
+Visibility Graph A* Total Path Distance: 14.3411681228
+
+
+
+Map 3, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 11
+Visibility Graph A* Total Time: 16.660854578
+Visibility Graph A* Total Path Distance: 26.9339512653
+
+
+
+Map 3, Start/Goal 6
+Visibility Graph A* Total Expanded Nodes: 17
+Visibility Graph A* Total Time: 15.7572159767
+Visibility Graph A* Total Path Distance: 32.0653560597
+
+
+
+Map 3, Start/Goal 7
+Visibility Graph A* Total Expanded Nodes: 15
+Visibility Graph A* Total Time: 16.1473879814
+Visibility Graph A* Total Path Distance: 16.6915774423
+
+
+
+Map 3, Start/Goal 8
+Visibility Graph A* Total Expanded Nodes: 9
+Visibility Graph A* Total Time: 15.6284782887
+Visibility Graph A* Total Path Distance: 29.9415390954
+
+
+
+Map 3, Start/Goal 9
+Visibility Graph A* Total Expanded Nodes: 22
+Visibility Graph A* Total Time: 16.2292721272
+Visibility Graph A* Total Path Distance: 25.6181413088
+
+
+
+Map 3, Start/Goal 0
+Visibility Graph A* Total Expanded Nodes: 11
+Visibility Graph A* Total Time: 17.7387430668
+Visibility Graph A* Total Path Distance: 13.8480751985
+
+
+
+Map 3, Start/Goal 1
+Visibility Graph A* Total Expanded Nodes: 19
+Visibility Graph A* Total Time: 19.3241510391
+Visibility Graph A* Total Path Distance: 16.6073275026
+
+
+
+Map 3, Start/Goal 2
+Visibility Graph A* Total Expanded Nodes: 14
+Visibility Graph A* Total Time: 20.1404469013
+Visibility Graph A* Total Path Distance: 14.0230261664
+
+
+
+Map 3, Start/Goal 0
+Visibility Graph A* Total Expanded Nodes: 11
+Visibility Graph A* Total Time: 17.5397839546
+Visibility Graph A* Total Path Distance: 13.8480751985
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 5
+Visibility Graph A* Total Time: 0.842360973358
+Visibility Graph A* Total Path Distance: 7.06579209636
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.8649289608
+Visibility Graph A* Total Path Distance: 6.02236375797
+
+
+
+Map 2, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 16
+Visibility Graph A* Total Time: 1.58686208725
+Visibility Graph A* Total Path Distance: 7.14635678797
+
+
+
+Map 3, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 13
+Visibility Graph A* Total Time: 17.2378959656
+Visibility Graph A* Total Path Distance: 26.8575382175
+
+
+
+Map 4, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 17
+Visibility Graph A* Total Time: 18.4658918381
+Visibility Graph A* Total Path Distance: 19.2862723448
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 1.06883120537
+Visibility Graph A* Total Path Distance: 6.02236375797
+
+
+
+Map 2, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 16
+Visibility Graph A* Total Time: 1.82308602333
+Visibility Graph A* Total Path Distance: 7.14635678797
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.815767049789
+Visibility Graph A* Total Path Distance: 6.02236375797
+
+
+
+Map 2, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 16
+Visibility Graph A* Total Time: 1.63117194176
+Visibility Graph A* Total Path Distance: 7.14635678797
+
+
+
+Map 3, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 13
+Visibility Graph A* Total Time: 16.6171581745
+Visibility Graph A* Total Path Distance: 26.8575382175
+
+
+
+Map 1, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 8
+Visibility Graph A* Total Time: 0.928118944168
+Visibility Graph A* Total Path Distance: 6.02236375797
+
+
+
+Map 4, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 17
+Visibility Graph A* Total Time: 19.3394680023
+Visibility Graph A* Total Path Distance: 19.2862723448
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 18
+Visibility Graph A* Total Time: 29.9787530899
+Visibility Graph A* Total Path Distance: 24.6247243342
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 23
+Visibility Graph A* Total Time: 27.0428259373
+Visibility Graph A* Total Path Distance: 20.5375756082
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 24
+Visibility Graph A* Total Time: 27.1037819386
+Visibility Graph A* Total Path Distance: 20.7060068947
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 24
+Visibility Graph A* Total Time: 29.383564949
+Visibility Graph A* Total Path Distance: 20.7191002009
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 16
+Visibility Graph A* Total Time: 26.7941510677
+Visibility Graph A* Total Path Distance: 24.7737350764
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 21
+Visibility Graph A* Total Time: 33.0857048035
+Visibility Graph A* Total Path Distance: 20.760610672
+
+
+
+Map 5, Start/Goal 5
+Visibility Graph A* Total Expanded Nodes: 24
+Visibility Graph A* Total Time: 43.4136788845
+Visibility Graph A* Total Path Distance: 20.7060068947
+
+
+
