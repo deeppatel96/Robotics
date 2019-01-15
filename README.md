@@ -1,0 +1,3 @@
+# Robotics
+
+These projects were completed for the class Computational Robotics 566 at Rutgers University. The first project (Path_Planning) is an implementation of a path planning A* algorithm for a point robot in SO(2) using a grid-based graph and a reduced visibility graph both with polygonal obstacles. The second project (Sampling_Algorithms) involves both an implementation of the PRM* algorithm in SE(3) and the RRT algorithm in a kinodynamic setting. The last project (Particle Filter) is an implementation of the localization problem for a car in SE(2) using a particle filter using point cloud data. All the project are integrated with ROS and Gazebo with dynamic and static dependencies.
