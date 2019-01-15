@@ -1,11 +1,11 @@
 # Path Planning using Sampling Algorithms (PRM, RRT, & its varients)
 
-Refer to the [assignment description](../assignment2.pdf) for full details behind this project.
+Refer to the [assignment description](assignment2.pdf) for full details behind this project.
 
 This projects consists of two parts.
 The first part involves using the PRM and PRM* algorithms to find collision-free paths to move a paino between two locations in a furnished living room constructed in Gazebo. In my implementation, I use the PQP collision detection library which provides fast collision checking. I also use the k-nearest neighbors algorithm for the local planner. For the representations of the orientations, I chose to use quaternions to provide true uniform sampling and also to avoid singularities when interpolating paths for collision checking.
 
-The complete report can be found at [report.pdf](../report.pdf).
+The complete report can be found at [report.pdf](report.pdf).
 
 
 # Software Instructions
